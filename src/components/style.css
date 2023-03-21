@@ -1,0 +1,12 @@
+nav {
+  background-color: black;
+}
+a {
+  color: blanchedalmond;
+}
+nav {
+  padding: 20px;
+  display: flex;
+  gap: 16px;
+  justify-content: space-evenly;
+}
